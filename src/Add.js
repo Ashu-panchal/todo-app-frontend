@@ -37,7 +37,7 @@ function Add({ todo, setTodo }) {
 
   return (
     <div>
-      <div className="max-w-md w-full bg-black/30 rounded-3xl shadow-2xl p-9 mb-[220px] ml-[635px]">
+      <div className="max-w-md w-full bg-black/30 rounded-3xl shadow-2xl p-9 mb-[220px] ml-[630px]">
         <h2 className="text-3xl font-extrabold text-center text-white drop-shadow-lg mb-[30px]">
           Add Task
         </h2>
