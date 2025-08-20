@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const host = "https://todo-app-backend-x8jo.onrender.com";
+const host = "https://todo-app-frontend-4rxw.onrender.com";
 
 async function callCreateAPI(apiPath, body) {
     return await axios.post(host + apiPath, body)
