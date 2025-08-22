@@ -65,7 +65,7 @@ function App() {
   className="flex flex-col min-h-screen justify-between"
   style={{
     backgroundImage:
-      "url('https://png.pngtree.com/png-clipart/20240727/original/pngtree-seamless-ultra-high-resolution-image-small-river-rocks-texture-as-background-png-image_15649572.png')",
+      "url('https://plus.unsplash.com/premium_photo-1668104453502-17c5de22794d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
     backgroundPosition: "center",

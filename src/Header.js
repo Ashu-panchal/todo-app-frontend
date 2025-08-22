@@ -10,7 +10,7 @@ function Header() {
           <div className="w-10 h-10 bg-black/50 text-white flex items-center justify-center rounded-xl font-bold text-lg shadow">
             T
           </div>
-          <span className="text-gray-700 font-semibold text-lg">Task Manager</span>
+          <span className="text-gray-600 font-semibold text-lg">Task Manager</span>
         </Link>
 
         <div className="flex items-center space-x-8 bg-black/40 backdrop-blur-md rounded-lg px-6 py-2 shadow mt-[6px]">
